@@ -11,9 +11,9 @@ app.use(express.json());
 
 // Objeto que vai guardar o placar na memória do servidor
 let placar = {
-    time_casa: "Time A",
+    time_casa: "PRODUZ",
     gols_casa: 0,
-    time_fora: "Time B",
+    time_fora: "SPORTS",
     gols_fora: 0,
     tempo: "00:00",
     periodo: "1T"
